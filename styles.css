@@ -96,8 +96,10 @@ img {
         background: url(./images/pattern-curve.svg) no-repeat, url(./images/pattern-bg.svg) no-repeat;
         background-position: left bottom, center 10%;
         background-size: 75%, 90%;
+        height: auto;
     }
     main {
+        margin-top: 200px;
         width: 90%;
         background: url(./images/pattern-quotes.svg) no-repeat;
         background-position: center 60vw;
